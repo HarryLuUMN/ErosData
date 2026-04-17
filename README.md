@@ -1,4 +1,4 @@
-# Video Website Data Analysis
+# ErosData: An Adult Performer Profile Dataset
 
 This repository contains a small end-to-end data project built around performer/profile web scraping, dataset assembly, and exploratory analysis. The core focus is collecting performer data from an adult video website, consolidating it into CSV datasets, and exploring the results in Jupyter notebooks.
 
